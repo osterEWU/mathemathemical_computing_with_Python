@@ -1,4 +1,4 @@
-# mathemathemical_computing_with_Python
+# Mathemathemical Computing with Python
 
 These lecture notes are to accompany an introduction to numerical methods.  
 
