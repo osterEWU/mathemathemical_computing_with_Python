@@ -15,7 +15,7 @@ Table of Contents
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
      * [Latex](/computing-primer/jupyter/latex.ipynb) 
      
-    <\details>
+    </details>
     
   - 1.2 Python Basics
      * [Numbers](/computing-primer/python/variables.ipynb)
