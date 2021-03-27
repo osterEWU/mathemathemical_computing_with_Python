@@ -11,7 +11,7 @@ Table of Contents
 
 - 1.1 Jupyter
     <details>
-    <summary>  </summary>
+    <summary> click to see subsections </summary>
   
      * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
@@ -20,6 +20,9 @@ Table of Contents
     </details>
     
   - 1.2 Python Basics
+    <details>
+    <summary> click to see subsections </summary>
+     
      * [Numbers](/computing-primer/python/variables.ipynb)
      * [Variables](/computing-primer/python/variables.ipynb)
      * [Sequences](/computing-primer/python/sequences.ipynb)
@@ -28,11 +31,19 @@ Table of Contents
      * [Logic](/computing-primer/python/logic.ipynb)
      * [Loops](/computing-primer/python/loops.ipynb)
      * [Packages](/computing-primer/python/modules-packages.ipynb)  
+     
+    </details>
+    
   - 1.3 Important Python Packages
+    <details>
+    <summary> click to see subsections </summary>
+    
      * [numpy](/computing-primer/scipy/numpy.ipynb)
      * [matplotlib](/computing-primer/scipy/matplotlib.ipynb)
      * [scipy](/computing-primer/scipy/scipy.ipynb)
-   
+     
+    </details>
+    
   # Root finding
   # Numerical Integration
   # Numerical Differential Equations
