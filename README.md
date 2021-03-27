@@ -8,9 +8,10 @@ Table of Contents
 =================
 
   # 1. Computing Primer
-    * [Jupyter](computing-primer/jupyter.ipynb) 
+    1.1 Get aquainted with python notebooks [Jupyter](http://https://github.com/osterEWU/mathemathemical_computing_with_Python/computing-primer/jupyter.ipynb) 
     1.2 [Python](#python)
     1.3 [Important Python Packages](#scipy)
+    2.
   # [Root finding](#roots-optimization)
   # [Numerical Integration](#integration)
      * [integrals](#integrals.ipynb)
