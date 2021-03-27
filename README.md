@@ -9,9 +9,11 @@ Table of Contents
 
 # 1. Computing Primer
   - 1.1 Jupyter 
+  <details>
      * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
      * [Latex](/computing-primer/jupyter/latex.ipynb) 
+  <details>
   - 1.2 Python Basics
      * [Numbers](/computing-primer/python/variables.ipynb)
      * [Variables](/computing-primer/python/variables.ipynb)
