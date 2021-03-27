@@ -8,7 +8,7 @@ Table of Contents
 =================
 
 # 1. Computing Primer
-  * Jupyter 
+  - 1.1 Jupyter 
      * [Python Notebooks](/computing-primer/jupyter/notebook.ipynb) 
   * [Python](#python)
   * [Important Python Packages](#scipy)
