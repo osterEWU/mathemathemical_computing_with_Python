@@ -9,9 +9,20 @@ Table of Contents
 
 # 1. Computing Primer
   - 1.1 Jupyter 
-     * [Python Notebooks](/computing-primer/jupyter/notebook.ipynb) 
-  * [Python](#python)
-  * [Important Python Packages](#scipy)
+     * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
+     * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
+     * [Latex](/computing-primer/jupyter/latex.ipynb) 
+  - 1.2 Python Basics
+     * [Numbers](/computing-primer/python/variables.ipynb)
+     * [Variables](/computing-primer/python/variables.ipynb)
+     * [Sequences](/computing-primer/python/sequences.ipynb)
+     * [Text](/computing-primer/python/text.ipynb)
+     * [Functions](/computing-primer/python/functions.ipynb)
+     * [Logic](/computing-primer/python/logic.ipynb)
+     * [Loops](/computing-primer/python/loops.ipynb)
+     * [Packages](/computing-primer/python/modules-packages.ipynb)
+     
+  -1.3 Important Python Packages
    
   # [Root finding](#roots-optimization)
   # [Numerical Integration](#integration)
