@@ -19,7 +19,7 @@ Table of Contents
      
     </details>
     
-  - 1.2 Python Basics
+ - 1.2 Python Basics
     <details>
     <summary> click to see subsections </summary>
      
@@ -34,7 +34,7 @@ Table of Contents
      
     </details>
     
-  - 1.3 Important Python Packages
+- 1.3 Important Python Packages
     <details>
     <summary> click to see subsections </summary>
     
