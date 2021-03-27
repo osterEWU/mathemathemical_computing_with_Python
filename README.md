@@ -30,7 +30,6 @@ Table of Contents
      * [Functions](/computing-primer/python/functions.ipynb)
      * [Logic](/computing-primer/python/logic.ipynb)
      * [Loops](/computing-primer/python/loops.ipynb)
-     * [Packages](/computing-primer/python/modules-packages.ipynb)  
      
     </details>
     
