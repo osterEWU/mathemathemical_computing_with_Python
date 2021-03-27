@@ -7,14 +7,14 @@ These lecture notes are to accompany an introduction to numerical methods.
 Table of Contents
 =================
 
-  * [Computing Primer](#computing-primer)
-    * [Jupyter](#jupyter) 
-    * [Python](#python)
-    * [Important Python Packages](#scipy)
-  * [Root finding](#roots-optimization)
-  * [Numerical Integration](#integration)
-    * [integrals](#integrals.ipynb)
-  * [Numerical Differential Equations](#available-plugins)
+  # [Computing Primer](#computing-primer)
+    # [Jupyter](#jupyter) 
+    # [Python](#python)
+    # [Important Python Packages](#scipy)
+  # [Root finding](#roots-optimization)
+  # [Numerical Integration](#integration)
+     # [integrals](#integrals.ipynb)
+  # [Numerical Differential Equations](#differential-equations)
 
 
 
