@@ -8,7 +8,7 @@ Table of Contents
 =================
 
   # 1. Computing Primer
-    1.1 [Jupyter](computing-primer/jupyter.ipynb) 
+    * [Jupyter](computing-primer/jupyter.ipynb) 
     1.2 [Python](#python)
     1.3 [Important Python Packages](#scipy)
   # [Root finding](#roots-optimization)
