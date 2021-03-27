@@ -14,6 +14,7 @@ Table of Contents
      * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
      * [Latex](/computing-primer/jupyter/latex.ipynb) 
+     
     <\details>
     
   - 1.2 Python Basics
