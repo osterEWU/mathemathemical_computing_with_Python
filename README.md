@@ -7,15 +7,8 @@ These lecture notes are to accompany an introduction to numerical methods.
 Table of Contents
 =================
 
-- [1. Computing Primer](#computing-primer)
-  * [1.1 jupyter](#jupyter)
-  * [1.2 python](#python)
-    + [1.4.1 Internal References](#141-internal-references)
-    + [1.4.2 External References](#142-external-references)
-
-
   # [Computing Primer](#computing-primer)
-    1. [Jupyter](##jupyter) 
+    1. [Jupyter](/jupyter.ipynb) 
     2. [Python](#python)
     3. [Important Python Packages](#scipy)
   # [Root finding](#roots-optimization)
