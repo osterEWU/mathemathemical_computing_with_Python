@@ -8,7 +8,8 @@ Table of Contents
 =================
 
 # 1. Computing Primer
-  * Get aquainted with python notebooks [Jupyter](#https://github.com/osterEWU/mathemathemical_computing_with_Python/computing-primer/jupyter.ipynb) 
+  * Jupyter 
+     ** [Python Notebooks](/mathemathemical_computing_with_Python/computing-primer/jupyter/notebook.ipynb) 
   * [Python](#python)
   * [Important Python Packages](#scipy)
    
