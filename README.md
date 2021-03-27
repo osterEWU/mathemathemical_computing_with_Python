@@ -9,8 +9,9 @@ Table of Contents
 
 # 1. Computing Primer
 
+- 1.1 Jupyter
     <details>
-    <summary> - 1.1 Jupyter </summary>
+    <summary>  </summary>
   
      * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
