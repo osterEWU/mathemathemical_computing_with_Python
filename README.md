@@ -9,7 +9,7 @@ Table of Contents
 
 # 1. Computing Primer
   * Jupyter 
-     ** [Python Notebooks](/mathemathemical_computing_with_Python/computing-primer/jupyter/notebook.ipynb) 
+     * [Python Notebooks](/computing-primer/jupyter/notebook.ipynb) 
   * [Python](#python)
   * [Important Python Packages](#scipy)
    
