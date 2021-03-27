@@ -7,10 +7,10 @@ These lecture notes are to accompany an introduction to numerical methods.
 Table of Contents
 =================
 
-  # [Computing Primer](#computing-primer)
-    ## [Jupyter](computing-primer/jupyter.ipynb) 
-    2. [Python](#python)
-    3. [Important Python Packages](#scipy)
+  # 1. Computing Primer
+    1.1 [Jupyter](computing-primer/jupyter.ipynb) 
+    1.2 [Python](#python)
+    1.3 [Important Python Packages](#scipy)
   # [Root finding](#roots-optimization)
   # [Numerical Integration](#integration)
      * [integrals](#integrals.ipynb)
