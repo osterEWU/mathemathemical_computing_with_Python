@@ -11,6 +11,7 @@ Table of Contents
   - 1.1 Jupyter
     <details>
     <summary>subsections</summary>
+  
      * [Jupyter Notebooks](/computing-primer/jupyter/notebook.ipynb) 
      * [Markdown](/computing-primer/jupyter/markdown.ipynb) 
      * [Latex](/computing-primer/jupyter/latex.ipynb) 
